@@ -35,3 +35,16 @@ It demonstrates how to style a button and add hover animations with CSS.
 └── images
     └── hover-img1.jpeg   # Screenshot 1 of the button
     └── hover-img2.jpeg   # Screenshot 2 of the button
+
+
+
+## 🚀 How to Use
+1. Clone or download this repository  
+2. Open `index.html` in your browser   
+3. Customize the links and styles as you like  
+
+---
+
+## 👩‍💻 Author
+Created with ❤️ by **Farah Saleem**  
+- GitHub: [Farah-Saleem270](https://github.com/Farah-Saleem270) 
